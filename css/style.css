@@ -20,6 +20,11 @@ p {
   margin-bottom: 1.8em;
 }
 
+h2 {
+  font-size: 2em;
+  font-weight: 500;
+}
+
 h2, h3, a {
   color: #333;
 }
@@ -91,3 +96,17 @@ img {
   width: 90%;
   margin: 0 auto;
 }
+
+/* -----------------------
+   Food-Section
+-------------------------- */
+
+.line-sections {
+  margin-top: 1px;
+  border-top: solid #333 2px;
+}
+/*.food-section h2 {
+  color: #ffff;
+  background: #333;
+  padding: 3px;
+}*/
